@@ -1,0 +1,1 @@
+#Już w poprzednich krokach oba wykorzystują f-string
